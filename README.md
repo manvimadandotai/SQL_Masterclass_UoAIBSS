@@ -7,4 +7,5 @@ This repository contains the content for the SQL Masterclass organised by UOA IB
 # Pre-Requisites
 [Link](https://notedump.com/2020/01/importing-adventureworks-using-azure-data-studio-via-local-sql-server/)
 [Link2](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash)
+[Link3](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-2017&tabs=ssms)
 
