@@ -10,7 +10,21 @@ This repository contains the content for the SQL Masterclass organised by UOA IB
 * Adveture Works
 
 # Topics Covered
+* Introduction to SQL
+* Tools and Database used
+* Demo:
+** SQL Statements
+** Joins
+** Union
+** Operators
+** Stored Procedures
+** SQL Server Functions
+** SQL Database Statements
+* Important Concepts for Interview
+* Github Repository
+* Q/A
 
+* Additional Readings
 
 
 # Links for reference: 
