@@ -25,6 +25,7 @@ This repository contains the content for the SQL Masterclass organised by UOA IB
 * Q/A
 
 # Additional Readings
+* [Datawarehousing Toolkit](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/microsoft-data-warehouse-dw-toolkit-2005/)
 
 
 # Links for reference: 
