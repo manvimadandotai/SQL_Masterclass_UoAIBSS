@@ -24,7 +24,7 @@ This repository contains the content for the SQL Masterclass organised by UOA IB
 * Github Repository
 * Q/A
 
-* Additional Readings
+# Additional Readings
 
 
 # Links for reference: 
