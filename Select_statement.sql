@@ -124,3 +124,16 @@ WHERE  ( cast(ModifiedDate AS date) >= '2014-06-01'
 )
 
 SELECT COUNT(*) as count_B FROM modified_rec_op --52
+
+--Group by
+SELECT SUM(OrderQty) AS Qty_ordered
+       , ProductID
+FROM Sales.SalesOrderDetail
+GROUP by ProductID
+
+--Group by having
+SELECT SUM(OrderQty) AS Qty_ordered
+       , ProductID
+FROM Sales.SalesOrderDetail
+GROUP by ProductID
+HAVING SUM(OrderQty) >= 500
