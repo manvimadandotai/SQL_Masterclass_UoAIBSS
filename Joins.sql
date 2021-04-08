@@ -33,3 +33,14 @@ SELECT C.CustomerID
 FROM Sales.Customer as C 
 LEFT OUTER JOIN orders_2014 as o 
     ON C.CustomerID = o.CustomerID
+
+--Multicolumn Joins
+SELECT Product.ProductID
+ , Product.Name
+ , Product.StandardCost
+ , Product.ListPrice
+ , SalesOrderDetail.UnitPrice
+FROM Production.Product
+ INNER JOIN Sales.SalesOrderDetail
+ ON Product.ProductID = SalesOrderDetail.ProductID
+ AND Product.ListPrice = SalesOrderDetail.UnitPrice
